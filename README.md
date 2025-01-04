@@ -25,10 +25,10 @@ There are a total of 24,958 train and 2,600 test images (colored) that we have t
 **Uninfected:** The uninfected cells are free of the Plasmodium parasites
 
 
-- Histogram of training and test distribution</b>
+- Histogram of training and test distribution </b>
 ![histogram_train_test](https://github.com/user-attachments/assets/7a60e230-aaf6-4796-b5c6-ee4a292b933f)
 
-- Images of training data</b>
+- Images of training data </b>
 ![train_images](https://github.com/user-attachments/assets/cb340bc5-684f-455f-90a1-e2d24c7a47d3)
 
 - Images of training data (compact)
